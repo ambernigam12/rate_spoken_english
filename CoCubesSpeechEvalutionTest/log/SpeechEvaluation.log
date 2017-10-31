@@ -1,0 +1,36 @@
+18-04-2017 21:02:02 : Start logging
+18-04-2017 21:02:02 : Start user:20170418203752
+18-04-2017 21:02:59 : User: 20170418203752 Start Time: 21:02:02 End Time: 21:02:59
+18-04-2017 21:02:59 : End user:20170418203752
+18-04-2017 21:02:59 : Tool run : successful
+19-04-2017 11:54:00 : Start logging
+19-04-2017 11:54:00 : Start user:100
+19-04-2017 11:54:07 : User: 100 Start Time: 11:54:00 End Time: 11:54:07
+19-04-2017 11:54:07 : End user:100
+19-04-2017 11:54:07 : Tool run : successful
+19-04-2017 11:55:27 : Start logging
+19-04-2017 11:55:27 : Start user:100
+19-04-2017 11:57:45 : User: 100 Start Time: 11:55:27 End Time: 11:57:45
+19-04-2017 11:57:45 : End user:100
+19-04-2017 11:57:45 : Tool run : successful
+19-04-2017 18:52:51 : Start logging
+19-04-2017 18:52:51 : Start user:101
+19-04-2017 18:53:02 : Start logging
+19-04-2017 18:53:02 : Start user:101
+19-04-2017 18:55:10 : Start logging
+19-04-2017 18:55:10 : Start user:101
+19-04-2017 19:00:49 : Start logging
+19-04-2017 19:00:49 : Start user:101
+19-04-2017 19:06:55 : User: 101 Start Time: 19:00:49 End Time: 19:06:55
+19-04-2017 19:06:55 : End user:101
+19-04-2017 19:06:55 : Tool run : successful
+19-04-2017 19:10:32 : Start logging
+19-04-2017 19:10:32 : Start user:101
+19-04-2017 19:16:47 : User: 101 Start Time: 19:10:32 End Time: 19:16:47
+19-04-2017 19:16:47 : End user:101
+19-04-2017 19:16:47 : Tool run : successful
+29-04-2017 17:00:42 : Start logging
+29-04-2017 17:00:42 : Start user:20170429170014
+29-04-2017 17:02:03 : User: 20170429170014 Start Time: 17:00:42 End Time: 17:02:03
+29-04-2017 17:02:03 : End user:20170429170014
+29-04-2017 17:02:03 : Tool run : successful
